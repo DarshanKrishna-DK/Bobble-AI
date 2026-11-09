@@ -1,4 +1,10 @@
-# 🚑 AmbuFlow
+<h1 align="center">AmbuFlow</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-2563EB?style=for-the-badge" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-7C3AED?style=for-the-badge" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-0891B2?style=for-the-badge" alt="JavaScript" />
+</p>
 
 <div align="center">
     <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="images/LOGO.png">
